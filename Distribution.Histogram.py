@@ -1,4 +1,9 @@
 # Databricks notebook source
+# MAGIC %md
+# MAGIC https://python-graph-gallery.com/histogram/
+
+# COMMAND ----------
+
 # MAGIC %matplotlib inline
 
 # COMMAND ----------
